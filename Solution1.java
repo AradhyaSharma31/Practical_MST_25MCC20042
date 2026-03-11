@@ -1,4 +1,4 @@
-class Solution {
+class Solution1 {
     public int longestMountain(int[] arr) {
         int n = arr.length;
         if(n < 3) {
